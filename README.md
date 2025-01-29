@@ -6,7 +6,7 @@ There's no annoying reminders that your work time has ended, the screen just bla
 
 At midnight? The game’s over. Your computer shuts down on its own. Hit the bed, or enjoy a black screen. 😴💻🔥
 
-I prefer you compile with the second screen coz it re-synchronizes your time with NTP servers, to beat your cheating mind. 
+I prefer you compile with the second code, coz it re-synchronizes your time with NTP servers, to beat your cheating mind. 
 
 If you're addicted to cheating, just get an accountability partner, or wait for the future where I will release a more complex version that will literally take over your computer and you won't do anything at all. 
 
