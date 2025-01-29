@@ -12,6 +12,6 @@ Focus. Break. Repeat. Get things DONE.
 
 And don’t even think about cheating — the second script syncs your time using NTP servers, to ensure you don't change your time and escape the FocusX matrix. 
 
-If you’re trying to reverse the clock to get soem more time, maybe this isn't your software, get an accountability partner. 😉
+If you’re trying to reverse the clock to get some more time, maybe this isn't your software, get an accountability partner. 😉
 
 This is the first release, am going to improve it, make it smaller, and more complex with a better UI and more features, as time goes by.
