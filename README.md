@@ -1,13 +1,17 @@
-FocusX: No distractions. Just focus.
+FocusX: No Distractions. Just Focus.
+🔒 40 minutes of deep work → 10-minute forced break.
+No mercy. No “just five more minutes.” Your screen blacks out, keyboard & mouse disabled, and audio muted—you're out. 🚶‍♂️
 
-🔒 40 minutes of uninterrupted focusing, then a 10-minute mandatory break. This is not the ordinary pomodoro which allows you to do stuff after the 40 minutes are over, it literally throws you out by blackscreening everything and disabling your keyboard and mouse. 🚶‍♂️Mutes your audio incase you were playing some music.
+⏳ No annoying alerts. Just work till the screen goes dark.
+🌙 Midnight? Game over. Your PC shuts down. Sleep or stare at a black screen. 😴💀
 
-There's no annoying reminders that your work time has ended, the screen just blacks-out. 
+💡 Anti-cheat mode? Yep. It syncs with NTP servers to block sneaky time hacks.
+💻 Hardcore version coming soon—one that completely takes over your computer.
 
-At midnight? The game’s over. Your computer shuts down on its own. Hit the bed, or enjoy a black screen. 😴💻🔥
+This is not your average pomodoro. This is FocusX. Stay tuned. 🚀🔥
 
-I prefer you compile with the second code, coz it re-synchronizes your time with NTP servers, to beat your cheating mind. 
+I'm planning to add an internet disabler for those who want to completely cut off online distractions during focus sessions.
 
-If you're addicted to cheating, just get an accountability partner, or wait for the future where I will release a more complex version that will literally take over your computer and you won't do anything at all. 
+Additionally, I'll introduce a reverse mode—where the screen stays blacked out during work and only turns back on during breaks. This way, you can’t use your computer at all while working, forcing you to focus on offline tasks. Then, when the break starts, your screen unlocks, allowing you to check messages, browse, or do whatever you want.
 
-We need such an app. Am going to better it with time.
+This will take FocusX to the next level—no more loopholes, no more excuses. 🔥💻🚀
