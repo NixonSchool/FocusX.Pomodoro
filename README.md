@@ -25,3 +25,10 @@ This will take FocusX to the next levelâ€”no more loopholes, no more excuses. ðŸ
 Am not online for now, but when am back, I will make a better version, together with some juicy but hidden megaprojects for the hardcore computer lovers.
 
 ![image](https://github.com/user-attachments/assets/c839095a-3827-44f6-981d-4ca90ff8986c)
+
+You can minimize it to this:
+
+![image](https://github.com/user-attachments/assets/dd34e733-7853-479f-9085-e6cd390f3ad0)
+
+Which remains as a floating window.
+
