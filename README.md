@@ -15,3 +15,21 @@ I'm planning to add an internet disabler for those who want to completely cut of
 Additionally, I'll introduce a reverse mode—where the screen stays blacked out during work and only turns back on during breaks. This way, you can’t use your computer at all while working, forcing you to focus on offline tasks. Then, when the break starts, your screen unlocks, allowing you to check messages, browse, or do whatever you want.
 
 This will take FocusX to the next level—no more loopholes, no more excuses. 🔥💻🚀
+
+=============
+=============
+
+WHAT ABOUT ANDROID?? 
+
+I don't like how shallow you can access android, it has too many locks and you need to root stuff to get things done. 
+
+Accessibility service is a nightmare, keeps shutting off and apps don't really start at startup, unlike windows and other OS's.
+
+Future Vision: FocusX for Android – The Ultimate Focus Enforcer.
+
+Imagine taking FocusX to your phone. But this time, it’s even more hardcore. When your timer’s up, your phone shuts down. And if you try to turn it back on? It blocks all input, turning it off again. 😱
+
+Just like the desktop version, you’ll set your focus time, then get a break. But once that timer hits zero, your phone becomes out of service — no excuses, no distractions. And yes, just like the desktop app, at 12 AM, the game’s over. Your phone powers down for the night. 😴📱💥
+
+It’ll be even bigger, more powerful, and harder to cheat. Focus is the goal, and nothing gets in the way. Ready to level up your focus on the go? Stay tuned! 🚀
+
