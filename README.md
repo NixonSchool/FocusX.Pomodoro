@@ -16,10 +16,11 @@ No mercy. No “just five more minutes.” Your screen blacks out, keyboard & mo
 
 This is not your average pomodoro. This is FocusX. Stay tuned. 🚀🔥
 
-I'm planning to add an internet disabler for those who want to completely cut off online distractions during focus sessions.
+I'm planning to add an internet disabler for those who want to completely cut off online distractions during focus sessions and enable it during breaks.
 
 Additionally, I'll introduce a reverse mode—where the screen stays blacked out during work and only turns back on during breaks. This way, you can’t use your computer at all while working, forcing you to focus on offline tasks. Then, when the break starts, your screen unlocks, allowing you to check messages, browse, or do whatever you want.
 
 This will take FocusX to the next level—no more loopholes, no more excuses. 🔥💻🚀
 
-Am not online for now, but when am back, I will make a better version together with some juicy but hidden megaprojects for the hardcore computer lovers.
+Am not online for now, but when am back, I will make a better version, together with some juicy but hidden megaprojects for the hardcore computer lovers.
+
