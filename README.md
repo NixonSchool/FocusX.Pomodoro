@@ -22,4 +22,4 @@ Additionally, I'll introduce a reverse mode—where the screen stays blacked out
 
 This will take FocusX to the next level—no more loopholes, no more excuses. 🔥💻🚀
 
-
+Am not online for now, but when am back, I will make a better version and hidden megaprojects for the hardcore computer lovers.
