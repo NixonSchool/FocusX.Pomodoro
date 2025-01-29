@@ -1,17 +1,13 @@
 FocusX: No distractions. Just focus.
 
-🔒 40 minutes of uninterrupted grind, then a 10-minute mandatory break. But don’t just sit there — step away from your screen. 🚶‍♂️
+🔒 40 minutes of uninterrupted focusing, then a 10-minute mandatory break. This is not the ordinary pomodoro which allows you to do stuff after the 40 minutes are over, it literally throws you out by blackscreening everything and disabling your keyboard and mouse. 🚶‍♂️Mutes your audio incase you were playing some music.
 
-This app locks you down: blocks your screen, mutes your audio, and disables your mouse and keyboard. No cheat codes allowed.
+There's no annoying reminders that your work time has ended, the screen just blacks-out. 
 
-And if you stay still? You’re out. No annoying reminders — just a reset, time to move, stretch, or clear your mind. 💭
+At midnight? The game’s over. Your computer shuts down on its own. Hit the bed, or enjoy a black screen. 😴💻🔥
 
-At midnight? The game’s over. Your computer shuts down. Hit the bed, or enjoy a black screen. 😴💻🔥
+I prefer you compile with the second screen coz it re-synchronizes your time with NTP servers, to beat your cheating mind. 
 
-Focus. Break. Repeat. Get things DONE.
+If you're addicted to cheating, just get an accountability partner, or wait for the future where I will release a more complex version that will literally take over your computer and you won't do anything at all. 
 
-And don’t even think about cheating — the second script syncs your time using NTP servers, to ensure you don't change your time and escape the FocusX matrix. 
-
-If you’re trying to reverse the clock to get some more time, maybe this isn't your software, get an accountability partner. 😉
-
-This is the first release, am going to improve it, make it smaller, and more complex with a better UI and more features, as time goes by.
+We need such an app. Am going to better it with time.
