@@ -1,4 +1,8 @@
 FocusX: No Distractions. Just Focus.
+
+![image](https://github.com/user-attachments/assets/0826d834-987f-4070-a287-fd4feede9709)
+
+
 🔒 40 minutes of deep work → 10-minute forced break.
 No mercy. No “just five more minutes.” Your screen blacks out, keyboard & mouse disabled, and audio muted—you're out. 🚶‍♂️
 
@@ -7,6 +11,8 @@ No mercy. No “just five more minutes.” Your screen blacks out, keyboard & mo
 
 💡 Anti-cheat mode? Yep. It syncs with NTP servers to block sneaky time hacks.
 💻 Hardcore version coming soon—one that completely takes over your computer.
+
+![image](https://github.com/user-attachments/assets/54608fa2-2250-4347-b05a-adaf5699a3e7)
 
 This is not your average pomodoro. This is FocusX. Stay tuned. 🚀🔥
 
