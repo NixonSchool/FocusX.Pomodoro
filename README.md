@@ -1,5 +1,7 @@
 FocusX: No Distractions. Just Focus.
 
+I personally use the 50 minute work - 5 minute break version.
+
 ![image](https://github.com/user-attachments/assets/0826d834-987f-4070-a287-fd4feede9709)
 
 
